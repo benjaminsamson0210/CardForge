@@ -1,0 +1,17 @@
+feature,area,priority,original,clone,notes
+Interactive /customize studio,visual builder,must,yes,yes,Two-column layout with controls on left and live preview on right
+Website URL and title/description inputs,visual builder,must,yes,yes,Form inputs with auto-defaults and reset actions
+Theme variants (Default Bold Two-Up E-Commerce),visual builder,must,yes,yes,Distinct card layouts for various content types
+Light & Dark color mode switch,visual builder,must,yes,yes,Toggle between clean white card and dark theme
+9 Accent color swatches,visual builder,must,yes,yes,Red Orange Yellow Green Teal Blue Indigo Purple Pink
+9 Background pattern options,visual builder,must,yes,yes,None Hideout Bubbles Texture Diagonal Lines Charlie Brown Lines in Motion Topography Bank Note
+Watermark branding toggle,visual builder,must,yes,yes,Bottom-right watermark toggle gated by Pro
+Real-time 1200x630 dynamic image API (/api/og or /m),api,must,yes,yes,Stateless parametric URL endpoint generating live PNG
+Code snippet generator (HTML Next.js Markdown URL),integrations,should,yes,yes,One-click copy modal for embed snippets
+Custom hex color picker,visual builder,should,yes,yes,Custom branded color picker gated by Pro
+PNG download & Copy to clipboard,export,should,yes,yes,Direct export of generated card
+Pro upgrade paywall modal with Stripe,monetization,should,yes,yes,Checkout flow for $9/mo tier
+Automated metadata scraper from URL,automation,could,yes,yes,Fetch target URL <title> and <meta name=description>
+Preset library / saved styles,presets,could,yes,yes,Save user templates to LocalStorage
+WordPress plugin,integrations,could,yes,skip,Third-party CMS plugin not core to the standalone SaaS
+Foreign language switcher (German),localization,could,yes,skip,Regional language toggle not required for core app

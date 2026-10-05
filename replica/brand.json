@@ -1,0 +1,14 @@
+{
+  "name": "CardForge",
+  "avoid": [
+    "Mugshot Bot",
+    "MugshotBot",
+    "mugshotbot"
+  ],
+  "domains": [
+    "mugshotbot.com"
+  ],
+  "colors": [
+    "#603cba"
+  ]
+}

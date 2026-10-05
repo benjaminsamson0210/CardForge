@@ -1,0 +1,20 @@
+{
+  "avoid": [
+    "Mugshot Bot",
+    "MugshotBot",
+    "mugshotbot"
+  ],
+  "app_store": {
+    "name": "CardForge: Open Graph Studio",
+    "subtitle": "Dynamic Social Share Cards",
+    "promotional_text": "Create dynamic link preview images for your blog posts with a high-speed parametric API.",
+    "description": "CardForge automates Open Graph and Twitter Card images for your website.\n\nNever share a link with a broken or boring preview again. Design cards in a live visual studio, and automate previews with our sub-50ms edge rendering API.\n\nKey features:\n- 4 responsive layout themes\n- Dark and light color schemes\n- 9 SVG background patterns\n- 1-click code snippets for Next.js, HTML, and Markdown\n- Instant edge caching with zero database lock-in",
+    "keywords": "thumbnail,mockup,developer,satori,seo,og image,link preview,banner generator",
+    "whats_new": "Initial release of CardForge with sub-50ms Edge generation."
+  },
+  "google_play": {
+    "title": "CardForge: OG Card Studio",
+    "short_description": "Automate dynamic link preview images and Twitter cards for your blog.",
+    "full_description": "CardForge automates Open Graph and Twitter Card images for your website.\n\nNever share a link with a broken or boring preview again. Design cards in a live visual studio, and automate previews with our sub-50ms edge rendering API.\n\nKey features:\n- 4 responsive layout themes\n- Dark and light color schemes\n- 9 SVG background patterns\n- 1-click code snippets for Next.js, HTML, and Markdown\n- Instant edge caching with zero database lock-in"
+  }
+}
